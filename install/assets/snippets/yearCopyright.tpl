@@ -10,6 +10,7 @@
  * @internal	@properties 
  * @internal	@modx_category Content
  * @internal    @installset base, sample
+ * @author    supaweb (http://supaweb.ru)
  */
 
 $dy = isset($dy) ? (int)$dy : '2013'; //$dy - год разработки
