@@ -5,7 +5,7 @@
  * Automatically updates the year on the site.
  *
  * @category 	snippet
- * @version 	0.1
+ * @version 	0.1.1
  * @license 	http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
  * @internal	@properties
  * @internal	@modx_category Content
